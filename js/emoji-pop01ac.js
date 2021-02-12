@@ -11,7 +11,7 @@ class Fountain {
   }
 
   getParticle(size) {
-    return `<img src="../images/wynaut.png" style="width: ${size}px" width="${size}" />`
+    return `<img src="https://wynautmoney.github.io/home/images/wynaut.png" style="width: ${size}px" width="${size}" />`
   }
 
   loop() {
